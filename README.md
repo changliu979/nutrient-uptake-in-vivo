@@ -2,7 +2,7 @@
 
 The repository includes the code for the paper from Wang et al.
 
-System requirements
+# # System requirements
 All code requires a computer with RAM 16+GB to run and store the statistical results.
 
 Setting up the environment
