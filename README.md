@@ -10,5 +10,7 @@ Install R version 4.5.3
 
 Download the following R packages:
 
+'uwot' version 0.2.4
 'lmme4' version 2.0-1
+'effects' version 4.2-5
 
